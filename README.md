@@ -5,9 +5,7 @@
 
 
 <!-- ================= TYPING (ONE BY ONE – FIXED) ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello+World+☁️;I'm+Bharat+Ranjan+Prusty;Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Learning+by+Building+Every+Day" />
-</p>
+
 
 
 <p align="center">
