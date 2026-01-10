@@ -16,7 +16,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>. I focus on creating seamless digital experiences with robust backends and interactive frontends.
+I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>. I focus on creating scalable, high-performance applications with modern UI and robust backend systems.
 </p>
 
 <table align="center">
@@ -24,14 +24,14 @@ I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the
     <td width="50%" valign="top">
       <ul>
         <li>🎓 Pursuing <b>Master of Computer Applications</b></li>
-        <li>🌱 Mastered <b>React & Node.js</b></li>
-        <li>💡 Exploring <b>Cloud Deployment & DevOps</b></li>
+        <li>🌱 Strong in <b>React, Node.js & Express</b></li>
+        <li>💡 Exploring <b>Cloud, DevOps & System Design</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>🔭 Building <b>Real-time SaaS Platforms</b></li>
-        <li>⚡ Focus on <b>Performance Optimization</b></li>
+        <li>🔭 Building <b>Real-time & SaaS Applications</b></li>
+        <li>⚡ Focused on <b>Performance & Clean Architecture</b></li>
         <li>🤝 Open to <b>Freelance & Open Source</b></li>
       </ul>
     </td>
@@ -48,30 +48,34 @@ I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the
 
 ---
 
-<h2 align="center">🚀 Featured Repositories</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
 | Project Name | Tech Stack | Status | Link |
 | :--- | :--- | :---: | :---: |
-| **Project One** | MERN + Redux | 🟢 Live | [Repo](https://github.com/pradeep8118) |
-| **Project Two** | Next.js + TypeScript | 🟡 Dev | [Repo](https://github.com/pradeep8118) |
+| **MERN SaaS Platform** | MERN + Redux | 🟢 Live | [Repo](https://github.com/bharatranjan1305) |
+| **Next.js Dashboard** | Next.js + TypeScript | 🟡 In Progress | [Repo](https://github.com/bharatranjan1305) |
 
 </div>
 
 ---
 
-<h2 align="center">📊 System Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep8118&show_icons=true&theme=transparent&title_color=8A2BE2&icon_color=FF0055&text_color=ffffff&bg_color=0d1117&hide_border=true" height="185" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep8118&layout=compact&theme=transparent&title_color=00BFFF&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&hide_border=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatranjan1305&show_icons=true&theme=transparent&title_color=8A2BE2&icon_color=FF0055&text_color=ffffff&bg_color=0d1117&hide_border=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatranjan1305&layout=compact&theme=transparent&title_color=00BFFF&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&hide_border=true" height="185" />
 </p>
 
-<h3 align="center">🔥 Contribution Flow</h3>
+<h3 align="center">🔥 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=github-compact&color=8A2BE2&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bharatranjan1305&bg_color=0d1117&color=8A2BE2&line=00BFFF&point=FF0055&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 ---
@@ -90,13 +94,11 @@ I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the
   </a>
 </p>
 
-
-
 <!-- 🌊 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,FF0055,8A2BE2,00BFFF&height=100&section=footer" />
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pradeep8118&color=8A2BE2&style=flat-square" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=bharatranjan1305&color=8A2BE2&style=flat-square" alt="Visitors" />
 </p>
