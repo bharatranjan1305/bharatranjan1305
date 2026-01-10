@@ -7,18 +7,22 @@
   <img src="https://readme-typing-svg.herokuapp.com
   ?font=Fira+Code
   &size=26
-  &duration=3500
-  &pause=600
+  &duration=7000
+  &pause=1500
   &color=00FFC6
+  &cursor=true
+  &cursorColor=00FFC6
   &center=true
   &vCenter=true
   &width=750
+  &v=2
   &lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;
   Aspiring+Full-Stack+Developer+(MERN);
   Building+Modern+Web+Applications;
   Open+Source+Enthusiast;
   Learning+by+Building+Every+Day" />
 </h1>
+
 
 
 
