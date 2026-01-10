@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,8A2BE2,00BFFF,FF0055&height=260&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Architect&descAlignY=58&v=100" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R2Z3F0ZzJ2dGJtM2J6Z3FjZ3R2b2Z2eWJqM2JmZ3l5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="750" />
-</p>
-
 
 <h1 align="center">
   <img
