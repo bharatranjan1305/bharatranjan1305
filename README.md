@@ -90,6 +90,17 @@ I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the
   </a>
 </p>
 
+<h3 align="center">🔥 Contribution Activity</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&bg_color=0d1117&color=8A2BE2&line=00BFFF&point=FF0055&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+
 <!-- 🌊 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,FF0055,8A2BE2,00BFFF&height=100&section=footer" />
