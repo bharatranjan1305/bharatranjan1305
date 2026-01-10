@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com
   ?font=Fira+Code
   &size=26
-  &duration=3000
-  &pause=1000
-  &color=00D9FF
+  &duration=2000
+  &pause=1500
+  &color=00FFC6
   &center=true
   &vCenter=true
   &width=750
@@ -19,6 +19,7 @@
   Open+Source+Enthusiast;
   Learning+by+Building+Every+Day" />
 </p>
+
 
 
 <p align="center">
