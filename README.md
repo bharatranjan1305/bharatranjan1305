@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
   <img
     width="100%"
@@ -6,22 +5,10 @@
   />
 </p>
 
-<!-- ================= TYPING (ONE BY ONE – FIXED) ================= -->
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg-gif.vercel.app/api
-    ?font=Fira+Code
-    &size=26
-    &color=00FFC6
-    &center=true
-    &width=750
-    &lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;
-    Aspiring+Full-Stack+Developer+(MERN);
-    Building+Modern+Web+Applications;
-    Open+Source+Enthusiast;
-    Learning+by+Building+Every+Day"
-    alt="Typing Animation"
-  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg-gif.vercel.app/api?font=Fira+Code&size=26&pause=1000&color=00FFC6&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" alt="Typing Animation" />
+  </a>
 </h1>
 
 <p align="center">
@@ -30,11 +17,10 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>.
+I am an <b>MCA Candidate</b> and <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>.<br>
 I focus on building scalable, high-performance applications with clean UI and robust backend systems.
 </p>
 
@@ -59,7 +45,6 @@ I focus on building scalable, high-performance applications with clean UI and ro
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -68,13 +53,12 @@ I focus on building scalable, high-performance applications with clean UI and ro
 
 ---
 
-<!-- ================= PROJECTS ================= -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
 | Project | Tech Stack | Status |
-|-------|-----------|--------|
+| :--- | :--- | :--- |
 | **MERN SaaS Platform** | MERN + Redux | 🟢 Live |
 | **Next.js Dashboard** | Next.js + TypeScript | 🟡 In Progress |
 
@@ -82,32 +66,21 @@ I focus on building scalable, high-performance applications with clean UI and ro
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bharatranjan1305&show_icons=true&theme=transparent&hide_border=true"
-    height="185"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatranjan1305&layout=compact&theme=transparent&hide_border=true"
-    height="185"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharatranjan1305&show_icons=true&theme=transparent&hide_border=true&title_color=00FFC6&icon_color=8A2BE2&text_color=ffffff" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatranjan1305&layout=compact&theme=transparent&hide_border=true&title_color=00FFC6&text_color=ffffff" height="185" />
 </p>
 
 <h3 align="center">🔥 Contribution Activity</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bharatranjan1305&bg_color=0d1117&color=8A2BE2&line=00BFFF&point=FF0055&area=true&hide_border=true"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatranjan1305&bg_color=0d1117&color=8A2BE2&line=00BFFF&point=FF0055&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -122,12 +95,8 @@ I focus on building scalable, high-performance applications with clean UI and ro
   </a>
 </p>
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,FF0055,8A2BE2,00BFFF&height=120&section=footer"
-  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,FF0055,8A2BE2,00BFFF&height=120&section=footer" />
 </p>
 
 <p align="right">
