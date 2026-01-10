@@ -6,9 +6,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg-gif.vercel.app/api?font=Fira+Code&size=26&pause=1000&color=00FFC6&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg-gif.vercel.app/api?font=Fira+Code&size=26&pause=1500&color=00FFC6&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" alt="Typing Animation" />
 </h1>
 
 <p align="center">
