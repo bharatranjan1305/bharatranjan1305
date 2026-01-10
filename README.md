@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,00ff88,00bdff,1a1a1a&height=250&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20|%20MERN%20Expert&descAlignY=58&v=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,8e2de2,ff0080,4a00e0&height=250&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20|%20MERN+Next.js&descAlignY=58&v=100" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=800&lines=🚀+Hello,+I'm+Bharat+Ranjan;💻+MERN+Stack+Specialist;🎓+Master+of+Computer+Applications;⚡+Architecting+Scalable+Solutions;🔥+Clean+Code+Practitioner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ff0080&center=true&vCenter=true&width=800&lines=🚀+Bharat+Ranjan+Prusty+is+Online;💻+MERN+Stack+Specialist;🎓+MCA+Scholar;⚡+Modern+Scalable+Solutions;🔥+Clean+Code+Practitioner" />
 </p>
 
 <p align="center">
-  <b>🍀 "Clean code is not written, it is refined."</b>
+  <b>✨ "Building the future, one line of code at a time."</b>
 </p>
 
 ---
@@ -15,25 +15,25 @@
 <h2 align="center">👨‍💻 About Bharat</h2>
 
 <p align="center">
-I am a <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b>. Currently pursuing my <b>MCA</b>, I build digital products that balance performance with elegant design. I focus on writing high-quality, maintainable code.
+I am <b>Bharat</b>, a dedicated <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>. I am currently pursuing my <b>MCA</b> and am passionate about creating interactive, user-driven applications with high performance.
 </p>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Core Strategy</h3>
+      <h3>🛠️ Core Competency</h3>
       <ul>
-        <li>🏗️ **Scalable Architectures** (Node/Express)</li>
-        <li>⚡ **Reactive UIs** (React/Next.js)</li>
-        <li>💾 **Efficient Databases** (MongoDB/SQL)</li>
+        <li>🏗️ **Full Stack:** MongoDB, Express, React, Node</li>
+        <li>⚡ **Modern Web:** Next.js 15, TypeScript</li>
+        <li>🎨 **Styling:** Tailwind CSS, Framer Motion</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 Future Outlook</h3>
+      <h3>🚀 Innovation Focus</h3>
       <ul>
-        <li>📦 **DevOps & Cloud** (Docker/Vercel)</li>
-        <li>🧠 **AI-Integration** in Web Apps</li>
-        <li>🤝 **Open Source** Contributor</li>
+        <li>📦 **DevOps:** Docker, CI/CD, Vercel</li>
+        <li>🧠 **Logic:** Data Structures & Algorithms</li>
+        <li>🌐 **Community:** Open Source Contributor</li>
       </ul>
     </td>
   </tr>
@@ -41,7 +41,7 @@ I am a <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b>. Curren
 
 ---
 
-<h2 align="center">🛠️ Technical Stack</h2>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,typescript,tailwind,java,mysql,git,docker,postman,vscode,vercel,aws,redux&perline=8" />
@@ -49,16 +49,16 @@ I am a <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b>. Curren
 
 ---
 
-<h2 align="center">📊 Bharat's Code Pulse</h2>
+<h2 align="center">📊 Bharat's Development Pulse</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep8118&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00bdff&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep8118&layout=compact&theme=tokyonight&title_color=00bdff&icon_color=00ff88&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep8118&show_icons=true&theme=radical&title_color=ff0080&icon_color=8e2de2&text_color=ffffff&bg_color=0d1117&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep8118&layout=compact&theme=radical&title_color=8e2de2&icon_color=ff0080&text_color=ffffff&bg_color=0d1117&hide_border=true" height="195" />
 </p>
 
-<h3 align="center">🔥 Activity Heatmap</h3>
+<h3 align="center">🔥 Contribution Flow</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=react-dark&color=00ff88&bg_color=1a1a1a&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=react-dark&color=ff0080&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -69,31 +69,4 @@ I am a <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b>. Curren
 
 | Project Title | Stack | Performance | Source |
 | :--- | :--- | :---: | :---: |
-| **Bharat-Core-SaaS** | Next.js + TS | 🟢 99+ | [Repo](https://github.com/pradeep8118) |
-| **MERN-Dash-Pro** | React + Node.js | 🟡 In-Dev | [Repo](https://github.com/pradeep8118) |
-
-</div>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharat-00ff88?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" />
-  </a>
-  <a href="mailto:pp8788022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-00bdff?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/pradeep50142678" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech-00ff88?style=for-the-badge&logo=twitter&logoColor=1a1a1a" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,1a1a1a,00bdff,00ff88&height=100&section=footer" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pradeep8118&color=00ff88&style=flat-square" alt="Visitors" />
-</p>
+| **Bharat-Commerce-Pro** | Next.js + Stripe | 🟢 Stable | [Repo](
