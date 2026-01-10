@@ -7,22 +7,10 @@
 </p>
 
 <!-- ================= TYPING (ONE BY ONE – FIXED) ================= -->
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg-gif.vercel.app/api
-    ?font=Fira+Code
-    &size=26
-    &color=00FFC6
-    &center=true
-    &width=750
-    &lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;
-    Aspiring+Full-Stack+Developer+(MERN);
-    Building+Modern+Web+Applications;
-    Open+Source+Enthusiast;
-    Learning+by+Building+Every+Day"
-    alt="Typing Animation"
-  />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello+World+☁️;I'm+Bharat+Ranjan+Prusty;Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Learning+by+Building+Every+Day" />
+</p>
+
 
 <p align="center">
   <b>🔥 Innovation through code. Impact through design.</b>
