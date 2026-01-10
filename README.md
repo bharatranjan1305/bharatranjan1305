@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,8A2BE2,00BFFF,FF0055&height=260&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Architect&descAlignY=58&v=100" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com
   ?font=Fira+Code
   &size=26
-  &duration=2000
-  &pause=1500
+  &duration=3500
+  &pause=600
   &color=00FFC6
   &center=true
   &vCenter=true
@@ -18,7 +18,7 @@
   Building+Modern+Web+Applications;
   Open+Source+Enthusiast;
   Learning+by+Building+Every+Day" />
-</p>
+</h1>
 
 
 
