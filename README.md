@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,ff4b2b,ff416c,ffffff&height=250&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20|%20MERN%20Specialist&descAlignY=58&v=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,00ff88,00bdff,1a1a1a&height=250&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Architect%20|%20MERN%20Expert&descAlignY=58&v=100" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ff4b2b&center=true&vCenter=true&width=800&lines=🚀+Welcome+to+Bharat's+World;💻+Full-Stack+MERN+Developer;🎓+MCA+Scholar;⚡+Building+Scalable+Solutions;🔥+Crafting+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00ff88&center=true&vCenter=true&width=800&lines=🚀+Hello,+I'm+Bharat+Ranjan;💻+MERN+Stack+Specialist;🎓+Master+of+Computer+Applications;⚡+Architecting+Scalable+Solutions;🔥+Clean+Code+Practitioner" />
 </p>
 
 <p align="center">
-  <b>🔥 "Passion drives code. Logic builds reality."</b>
+  <b>🍀 "Clean code is not written, it is refined."</b>
 </p>
 
 ---
@@ -15,25 +15,25 @@
 <h2 align="center">👨‍💻 About Bharat</h2>
 
 <p align="center">
-I am <b>Bharat</b>, a <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b>. I bridge the gap between complex backend logic and pixel-perfect frontends. Currently pursuing my <b>MCA</b>, I focus on the performance and scalability of modern web applications.
+I am a <b>Full-Stack Developer</b> specializing in the <b>MERN Stack</b>. Currently pursuing my <b>MCA</b>, I build digital products that balance performance with elegant design. I focus on writing high-quality, maintainable code.
 </p>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Technical Excellence</h3>
+      <h3>🚀 Core Strategy</h3>
       <ul>
-        <li>🏗️ **Architecture:** Modular & Scalable</li>
-        <li>⚡ **Frontend:** React, Next.js, Redux</li>
-        <li>🛡️ **Security:** JWT, OAuth, Encryption</li>
+        <li>🏗️ **Scalable Architectures** (Node/Express)</li>
+        <li>⚡ **Reactive UIs** (React/Next.js)</li>
+        <li>💾 **Efficient Databases** (MongoDB/SQL)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌍 Future Outlook</h3>
       <ul>
-        <li>☁️ **DevOps:** Docker, AWS Deployment</li>
-        <li>🧠 **AI/ML:** Integrating AI in Web</li>
-        <li>🤝 **Open Source:** Active Contributor</li>
+        <li>📦 **DevOps & Cloud** (Docker/Vercel)</li>
+        <li>🧠 **AI-Integration** in Web Apps</li>
+        <li>🤝 **Open Source** Contributor</li>
       </ul>
     </td>
   </tr>
@@ -41,7 +41,7 @@ I am <b>Bharat</b>, a <b>Full-Stack Developer</b> specializing in the <b>MERN St
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Technical Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,typescript,tailwind,java,mysql,git,docker,postman,vscode,vercel,aws,redux&perline=8" />
@@ -49,38 +49,51 @@ I am <b>Bharat</b>, a <b>Full-Stack Developer</b> specializing in the <b>MERN St
 
 ---
 
-<h2 align="center">📊 The Pulse of Bharat's Code</h2>
+<h2 align="center">📊 Bharat's Code Pulse</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep8118&show_icons=true&theme=radical&title_color=ff4b2b&icon_color=ff416c&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep8118&layout=compact&theme=radical&title_color=ff416c&icon_color=ff4b2b&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeep8118&show_icons=true&theme=tokyonight&title_color=00ff88&icon_color=00bdff&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep8118&layout=compact&theme=tokyonight&title_color=00bdff&icon_color=00ff88&text_color=ffffff&bg_color=1a1a1a&hide_border=true" height="195" />
 </p>
 
-<h3 align="center">🔥 Contribution Heatwave</h3>
+<h3 align="center">🔥 Activity Heatmap</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=react-dark&color=ff4b2b&bg_color=ffffff&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep8118&theme=react-dark&color=00ff88&bg_color=1a1a1a&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Bharat</h2>
+<h2 align="center">🚀 Featured Repositories</h2>
+
+<div align="center">
+
+| Project Title | Stack | Performance | Source |
+| :--- | :--- | :---: | :---: |
+| **Bharat-Core-SaaS** | Next.js + TS | 🟢 99+ | [Repo](https://github.com/pradeep8118) |
+| **MERN-Dash-Pro** | React + Node.js | 🟡 In-Dev | [Repo](https://github.com/pradeep8118) |
+
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bharat-ff4b2b?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bharat-00ff88?style=for-the-badge&logo=linkedin&logoColor=1a1a1a" />
   </a>
   <a href="mailto:pp8788022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-ff4b2b?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-00bdff?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/pradeep50142678" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech-ff4b2b?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-Tech-00ff88?style=for-the-badge&logo=twitter&logoColor=1a1a1a" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,ffffff,ff416c,ff4b2b&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,1a1a1a,00bdff,00ff88&height=100&section=footer" />
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pradeep8118&color=ff4b2b&style=flat-square" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=pradeep8118&color=00ff88&style=flat-square" alt="Visitors" />
 </p>
