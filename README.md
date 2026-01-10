@@ -1,36 +1,57 @@
-<!-- 🌟 Top Banner -->
+<!-- 🌌 SKY–GLASS HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFC6&height=230&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20in%20the%20Making%20|%20MERN%20Stack&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api
+?type=waving
+&color=gradient
+&customColorList=0,0F2027,2C5364,00C6FF,4FACFE
+&height=270
+&section=header
+&text=Bharat%20Ranjan%20Prusty
+&fontSize=50
+&fontColor=ffffff
+&animation=fadeIn
+&fontAlignY=33
+&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Explorer
+&descAlignY=60" />
 </p>
 
-<!-- 🖋 Typing Banner -->
+<!-- ✨ FLOATING SKY TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=800&lines=Hello+World+👋;I'm+Bharat+Ranjan+Prusty;I+Build+Modern+Web+Applications;MERN+Stack+Developer+in+Progress;Code.+Learn.+Repeat.;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=28
+&duration=2500
+&pause=900
+&color=4FACFE
+&center=true
+&vCenter=true
+&width=920
+&lines=Hello+World+🌍;I'm+Bharat+Ranjan+Prusty;I+Craft+Elegant+Web+Experiences;MERN+Stack+Developer+in+Progress;Clean+Code.+Modern+Design.;From+Idea+to+Production" />
+</p>
+
+<p align="center">
+  <b style="font-size:18px;">☁️ Vision in the clouds. Execution on the ground.</b>
 </p>
 
 ---
 
+<!-- 🧊 GLASS ABOUT SECTION -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I’m an <b>ambitious Full-Stack Developer</b> focused on the <b>MERN stack</b>, driven by curiosity, consistency, and clean code.  
-I don’t just learn technologies — I <b>build with them</b>.  
-Every project I create is a step toward mastering scalable, real-world web applications.
+I am a <b>goal-driven Full-Stack Developer</b> specializing in the <b>MERN stack</b>, focused on building  
+<strong>scalable, clean, and user-centric web applications</strong>.  
+I believe consistency beats talent, and execution beats ideas.
 </p>
 
-- 🎓 MCA student with a strong technical mindset  
-- 🚀 Learning advanced full-stack development by building real projects  
-- 💻 Comfortable with **Java, C, JavaScript, and Web Technologies**  
-- 🔥 Believer in discipline, practice, and continuous improvement  
-- 🤝 Open to collaboration, challenges, and open-source work  
+<p align="center">
+🎓 MCA Student &nbsp;•&nbsp; 🚀 Project-Driven Learner &nbsp;•&nbsp; 🔥 Clean Code Enthusiast
+</p>
 
 ---
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-</p>
+<!-- ⚙️ TECH STACK -->
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,mysql,java,c,git,github,vscode" />
@@ -38,23 +59,47 @@ Every project I create is a step toward mastering scalable, real-world web appli
 
 ---
 
-<h2 align="center">🌐 Let’s Connect</h2>
+<!-- 🌐 CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Network%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-1E90FF?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/pradeep50142678" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-1DA1F2?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Thoughts-4FACFE?style=for-the-badge&logo=twitter" />
   </a>
   <a href="mailto:pp8788022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Let’s%20Talk-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-00C6FF?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
+<!-- 🔥 ACTIVITY -->
+<h2 align="center">🔥 Coding Activity</h2>
+
 <p align="center">
-  <b>“No shortcuts. No excuses. Just consistent progress.”</b><br/>
-  <i>Code every day. Improve every day.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph
+?username=pradeep8118
+&theme=react-dark
+&area=true" width="100%" />
+</p>
+
+---
+
+<!-- 🌊 FOOTER -->
+<p align="center">
+  <b>“Build quietly. Let results make the noise.”</b><br/>
+  <i>Consistency • Discipline • Growth</i>
+</p>
+
+<!-- 🌊 FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api
+?type=waving
+&color=gradient
+&customColorList=0,4FACFE,00C6FF,2C5364
+&height=120
+&section=footer" />
 </p>
