@@ -1,15 +1,11 @@
-<!-- 🌤️ SKY-BLUE / CYAN TOP BANNER -->
+<!-- 🌟 Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cyan&height=240&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Journey&descAlignY=58&v=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=230&section=header&text=Pradeep%20Patra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=55" />
 </p>
 
-<!-- 🖋 SKY TYPING BANNER -->
+<!-- 🖋 Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello+World+☁️;I'm+Bharat+Ranjan+Prusty;Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Learning+by+Building+Every+Day" />
-</p>
-
-<p align="center">
-  <b>☁️ Calm mindset. Sharp execution. Consistent growth.</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Pradeep+Patra;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" />
 </p>
 
 ---
@@ -17,25 +13,22 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Aspiring <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>, passionate about building scalable,  
-user-focused web applications. I believe in learning by building, collaborating,  
-and solving real-world problems with clean and efficient code.
+Aspiring <b>Full-Stack Developer</b> specializing in the <b>MERN stack</b>, passionate about building scalable, user-focused web applications.  
+I believe in learning by building, collaborating, and solving real-world problems with clean and efficient code.
 </p>
 
-<ul>
-  <li>🎓 Pursuing <b>Master of Computer Applications (MCA)</b></li>
-  <li>🌱 Currently learning <b>Advanced Full-Stack Development</b></li>
-  <li>💡 Strong foundation in <b>Java, C, and Web Technologies</b></li>
-  <li>🤝 Open to collaboration & open-source contributions</li>
-  <li>⚡ Enjoys problem-solving and continuous learning</li>
-</ul>
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 🌱 Currently learning **Advanced Full-Stack Development**
+- 💡 Strong foundation in **Java, C, and Web Technologies**
+- 🤝 Open to collaboration & open-source contributions
+- ⚡ Enjoys problem-solving and continuous learning
 
 ---
 
 <h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 <p align="center">
@@ -48,13 +41,13 @@ and solving real-world problems with clean and efficient code.
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-00BFFF?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/pradeep50142678" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech%20Updates-00BFFF?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Tech%20Updates-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
   <a href="mailto:pp8788022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-00BFFF?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -80,7 +73,8 @@ and solving real-world problems with clean and efficient code.
   <i>“Build consistently. Learn relentlessly. Grow professionally.”</i>
 </p>
 
-<!-- 🌊 SKY-BLUE FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cyan&height=120&section=footer&v=100" />
+<b>Bharat Ranjan Prusty</b><br/>
+Full-Stack Developer | MERN Stack Journey<br/>
+☁️ Calm mindset. Sharp execution. Consistent growth.
 </p>
