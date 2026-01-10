@@ -1,12 +1,28 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hello+World;I'm+Bharat+Ranjan+Prusty;Full-Stack+Developer+(MERN);Building+Modern+Web+Applications" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,8A2BE2,00BFFF,FF0055&height=260&section=header&text=Bharat%20Ranjan%20Prusty&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Architect&descAlignY=58"
+  />
 </p>
 
-
 <!-- ================= TYPING (ONE BY ONE – FIXED) ================= -->
-
-
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg-gif.vercel.app/api
+    ?font=Fira+Code
+    &size=26
+    &color=00FFC6
+    &center=true
+    &width=750
+    &lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;
+    Aspiring+Full-Stack+Developer+(MERN);
+    Building+Modern+Web+Applications;
+    Open+Source+Enthusiast;
+    Learning+by+Building+Every+Day"
+    alt="Typing Animation"
+  />
+</h1>
 
 <p align="center">
   <b>🔥 Innovation through code. Impact through design.</b>
