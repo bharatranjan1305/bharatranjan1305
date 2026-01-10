@@ -4,8 +4,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=🚀+MERN+Stack+Expertise;💻+MCA+Scholar;⚡+Modern+Web+Solutions;🔥+Learning+Next.js+%26+TypeScript;📦+Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &size=26
+  &duration=3000
+  &pause=1000
+  &color=00D9FF
+  &center=true
+  &vCenter=true
+  &width=750
+  &lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;
+  Aspiring+Full-Stack+Developer+(MERN);
+  Building+Modern+Web+Applications;
+  Open+Source+Enthusiast;
+  Learning+by+Building+Every+Day" />
 </p>
+
 
 <p align="center">
   <b>🔥 Innovation through code. Impact through design.</b>
