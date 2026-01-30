@@ -23,8 +23,6 @@
     alt="Typing Animation"
   />
 </h1>
-Typing Animation" />
-</h1>
 
 <p align="center">
   <b>🔥 Innovation through code. Impact through design.</b>
