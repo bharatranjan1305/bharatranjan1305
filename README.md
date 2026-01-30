@@ -6,23 +6,9 @@
 </p>
 
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg-gif.vercel.app/api
-    ?font=Fira+Code
-    &size=26
-    &pause=1500
-    &color=00FFC6
-    &center=true
-    &vCenter=true
-    &width=750
-    &lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;
-    Aspiring+Full-Stack+Developer+(MERN);
-    Building+Modern+Web+Applications;
-    Open+Source+Enthusiast;
-    Learning+by+Building+Every+Day"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg-gif.vercel.app/api?font=Fira+Code&size=26&pause=1500&color=00FFC6&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" alt="Typing Animation" />
 </h1>
+
 
 <p align="center">
   <b>🔥 Innovation through code. Impact through design.</b>
