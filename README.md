@@ -5,16 +5,9 @@
   />
 </p>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Berkshire+Swash&size=30&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" />
 </h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Shrikhand&size=30&pause=1500&color=4FC3F7&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Bharat+Ranjan+Prusty;Aspiring+Full-Stack+Developer+(MERN);Building+Modern+Web+Applications;Open+Source+Enthusiast;Learning+by+Building+Every+Day" />
-</h1>
-
-
 
 
 <p align="center">
